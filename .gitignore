@@ -1,0 +1,26 @@
+# Private inputs and all model-derived or generated artifacts remain local.
+data/
+private_data/
+outputs/
+checkpoints/
+runs/
+logs/
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.parquet
+*.npy
+*.npz
+*.pt
+*.pth
+*.pkl
+*.joblib
+*.log
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+.DS_Store
