@@ -3,7 +3,6 @@
 Core reference implementation of an element-phase-process HGNN for UTS/EL
 prediction and T5/T6 route screening. Training data and trained weights are not included.
 
-Extrusion temperature uses the column name `TEXT`.
 
 ## Installation
 
